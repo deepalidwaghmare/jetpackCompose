@@ -14,14 +14,6 @@ This project is part of my learning journey as an aspiring Android Developer usi
 
 ---
 
-## 📸 Screenshots
-
-<img src="screenshots/app_preview.png" width="300">
-
-> *(Update this image once you upload a screenshot!)*
-
----
-
 ## 🛠️ Built With
 
 - [Kotlin](https://kotlinlang.org/)
@@ -44,8 +36,8 @@ To run this app:
 
 **Deepali Dwaghmare**  
 Aspiring Android Developer | Passionate about building beautiful UIs  
-📧 [Your email if you want]  
-🌐 [Optional: Add a link to your LinkedIn or portfolio if available]
+📧 deepalidwaghmare@yahoo.com
+
 
 ---
 
